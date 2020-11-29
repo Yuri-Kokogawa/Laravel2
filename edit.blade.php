@@ -11,3 +11,6 @@
     <h1>課題４！</h1>
 </body>
 </html>
+
+{{-- layouts/profile.blade.phpを読み込む --}}
+@extends('layouts.profile')
